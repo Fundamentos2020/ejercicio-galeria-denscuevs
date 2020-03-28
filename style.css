@@ -1,0 +1,45 @@
+body {
+    font-family: 'DM Sans';font-size: 22px;
+}
+
+#title {
+    font-size: 50px;
+    display: block;
+    margin: 0%;
+}
+
+#lbl {
+    display: block;
+    margin: 1%;
+}
+
+#input-imas {
+    border-radius: 5px;
+    height: 30px;
+    width: 10%;
+    font-size: 100%;
+    text-align: center;
+}
+
+.content {
+    display: block;
+    text-align: center;
+}
+
+.btn-gallery {
+    margin: 3px;
+    border-radius: 5px;
+}
+
+#pagination {
+    display: flexbox;
+}
+
+#content-gallery {
+    display: flexbox;
+    margin: 20px;
+}
+
+.img {
+    margin: 5px;
+}
